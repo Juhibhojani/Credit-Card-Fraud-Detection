@@ -18,5 +18,5 @@ Steps Followed during Data Anaylsis:
 7) Handling imbalanced dataset (SMOTE) and Logistic Regression as Model
 8) Result
 
-Main disadvantage: Overfitting of model
+Main disadvantage: Overfitting of model <br>
 Point to be noted: Not to use accuracy as metrics for determination of model's result
